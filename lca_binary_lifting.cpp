@@ -1,9 +1,3 @@
-// Problem: C. Fools and Roads
-// Contest: Codeforces - Codeforces Round #121 (Div. 1)
-// URL: https://codeforces.com/contest/191/problem/C
-// Memory Limit: 256 MB
-// Time Limit: 2000 ms
-
 #include <bits/stdc++.h>
 #define pb push_back
 using namespace std;
