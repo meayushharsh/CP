@@ -21,7 +21,7 @@ void initialize(int n){
 }
 void euler_tour(int s,int p){
 	tin[s]=++timer;
-	cout<<s<<" ";
+	//cout<<s<<" ";
 	for(auto x:adj[s]){
 		if(x!=p){
 			euler_tour(x,s);
